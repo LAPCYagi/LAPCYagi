@@ -18,7 +18,7 @@ could make my own game. And the only thing I know was use _a little bit_ the
 Windows terminal (just `cd` and `dir`). So, I searched "How to do a game
 with the terminal ?" and, you gessed it, my first programming language was **Batch*de*...
 
-*A little exemple of **Batch*** :
+*A little exemple of ***Batch*** :
 ```bat
 @echo off
 title Exemple
