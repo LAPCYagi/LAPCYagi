@@ -18,7 +18,7 @@ could make my own game. And the only thing I know was use _a little bit_ the
 Windows terminal (just `cd` and `dir`). So, I searched "How to do a game
 with the terminal ?" and, you gessed it, my first programming language was **Batch**...
 
-*A little exemple of **Batch** :
+* A little exemple of **Batch** :
 ```bat
 @echo off
 title Exemple
@@ -34,13 +34,13 @@ As you can see, it's primitive...
 
 ### Wich language I learned (with an exemple)
 
-• Batch
+* Batch
 ```bat
 @echo off
 echo Hello Batch
 pause
 ```
-• HTML
+* HTML
 ```html
 <html>
     <body>
@@ -50,7 +50,7 @@ pause
     </body>
 </html>
 ```
-• CSS
+* CSS
 ```css
 p {
     font-family: Arial;
@@ -60,16 +60,16 @@ html{
     background-color: black;
 }
 ```
-• JS
+* JS
 ```js
 console.log("Hello JS");
 ```
-• Python (Discord.py first and "vanilla")
+* Python (Discord.py first and "vanilla")
 ```py
 # Ok, everyone know this one
 print("Hello Python")
 ```
-• Java (What I'm learning at the time)
+* Java (What I'm learning at the time)
 ```java
 public class Main {
     public static void main (String[] args) {
