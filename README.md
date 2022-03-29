@@ -1,79 +1,34 @@
-# Yagi_404
+# Hey there 👋, I'm Yagi-404
+### I'm a french dev and I enjoy low level programming (I'm on crush on C but don't tell him please ;))
 
-### Presentation
+![Yagi's Banner](https://share.creavite.co/GGzL2gpUuZCGuadJ.gif)
 
-Hello ! My pseudo (beaucause, you know, anonymous stuffs on internet...)
-is Yagi_404 and I am learning code. I'm french, so if my apps are little bit in french,
-please don't pay attention to the commits, code and ohter things that you
-can see in french.
-I have already done, as you can see on my repos, some basics applications
-and other.
+## $tats & Repos (📈 & 📚)
 
-I'm not looking for any job...
+![Yagi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yagi-404&show_icons=true&theme=dracula)
 
-### How I started
 
-I started because I had a homework to do, and I was wondering if I
-could make my own game. And the only thing I know was use _a little bit_ the
-Windows terminal (just `cd` and `dir`). So, I searched "How to do a game
-with the terminal ?" and, you gessed it, my first programming language was **Batch**...
+[![Calculatrix](https://github-readme-stats.vercel.app/api/pin/?username=yagi-404&repo=calculatrix)](https://github.com/anuraghazra/github-readme-stats)
 
-*A little exemple of **Batch** :
-```bat
-@echo off
-title Exemple
-cls
 
-:: Write "Hello World!" in a infinite loop
+[![PowerMusic](https://github-readme-stats.vercel.app/api/pin/?username=yagi-404&repo=powermusic)](https://github.com/anuraghazra/github-readme-stats)
 
-:loop
-echo Hello World!
-goto :loop
-```
-As you can see, it's primitive...
+Here, I only did the command in C.
 
-### Wich language I learned (with an exemple)
+[![4U](https://github-readme-stats.vercel.app/api/pin/?username=lapcoder&repo=4u-programming-language)](https://github.com/anuraghazra/github-readme-stats)
 
-• Batch
-```bat
-@echo off
-echo Hello Batch
-pause
-```
-• HTML
-```html
-<html>
-    <body>
-        <p>
-            Hello HTML
-        </p>
-    </body>
-</html>
-```
-• CSS
-```css
-p {
-    font-family: Arial;
-    color: green;
-}
-html{
-    background-color: black;
-}
-```
-• JS
-```js
-console.log("Hello JS");
-```
-• Python (Discord.py first and "vanilla")
-```py
-# Ok, everyone know this one
-print("Hello Python")
-```
-• Java (What I'm learning at the time)
-```java
-public class Main {
-    public static void main (String[] args) {
-         System.out.println("Hello Java");
-    }
-}
-```
+## Most loved languages (more stats) 📊
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagi-404&langs_count=100&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## My Websites :
+
+- [My personal webssite](https://yagi-404.github.io) => I should definitely make changes... 😅
+
+
+- [4U's Website](https://lapcoder.github.io/4U-Programming-Language) => My friend remade the CSS and thats why it's light mode by default 🕶
+
+### And finally, you should checkout [this profile](https://github.com/LAPCoder/), and [this repo (4U Programming Language)](https://github.com/LAPCoder/4U-Programming-language/). 😜
+He is a very good dev 👨‍💻 (and he is also my friend).
+
+You finished my README, congratulations ! 🎉 Don't forget to star 🌟 my projects if you like them. You can also follow me to view what I'm doing (like when I make a commit...).
