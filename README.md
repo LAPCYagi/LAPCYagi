@@ -36,6 +36,7 @@ Here, I only did the command in C.
 <a href="https://git-scm.com/"><img src="https://github.com/Yagi-404/Yagi-404/blob/main/git-icon.svg" width="40" height="40" alt="Git logo"/></a>
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript"><img src="https://github.com/Yagi-404/Yagi-404/blob/main/logo-javascript.svg" alt="JS logo" width="40" height="40"/> </a>
 <a href="https://python.org/"><img src="https://github.com/Yagi-404/Yagi-404/blob/main/python-5.svg" alt="Python logo" width="40" height="40"/></a>
+<a href="https://lapcoder.github.io/4U-Programming-language/"><img src="https://github.com/LAPCoder/4U-Programming-language/blob/main/images/4U%20logo.svg" alt="4U logo" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://github.com/Yagi-404/Yagi-404/blob/main/visual-studio-code-1.svg" alt="VS Code logo" width="40" height="40"/></a>
 <a href="https://www.sublimetext.com/"><img src="https://github.com/Yagi-404/Yagi-404/blob/main/sublime-text.svg" alt="Sublime Text logo" width="40" height="40"/></a>
 <a href="https://nodejs.org/"><img src="https://github.com/Yagi-404/Yagi-404/blob/main/nodejs-icon.svg" alt="NodeJS logo" width="40" height="40"/></a>
