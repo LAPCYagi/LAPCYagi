@@ -18,10 +18,6 @@ Here, I only did the command in C.
 
 [![4U](https://github-readme-stats.vercel.app/api/pin/?username=lapcoder&repo=4u-programming-language)](https://github.com/anuraghazra/github-readme-stats)
 
-## Most loved languages (more stats) 📊
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagi-404&langs_count=100&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## My Websites :
 
 - [My personal webssite](https://yagi-404.github.io) => I should definitely make changes... 😅
