@@ -9,14 +9,14 @@
 ![Yagi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yagi-404&show_icons=true&theme=dracula)
 
 
-[![Calculatrix](https://github-readme-stats.vercel.app/api/pin/?username=yagi-404&repo=calculatrix)](https://github.com/anuraghazra/github-readme-stats)
+[![Calculatrix](https://github-readme-stats.vercel.app/api/pin/?username=yagi-404&repo=calculatrix)](https://github.com/yagi-404/calculatrix/)
 
 
-[![PowerMusic](https://github-readme-stats.vercel.app/api/pin/?username=yagi-404&repo=powermusic)](https://github.com/anuraghazra/github-readme-stats)
+[![PowerMusic](https://github-readme-stats.vercel.app/api/pin/?username=yagi-404&repo=powermusic)](https://github.com/yagi-404/powermusic/)
 
 Here, I only did the command in C.
 
-[![4U](https://github-readme-stats.vercel.app/api/pin/?username=lapcoder&repo=4u-programming-language)](https://github.com/anuraghazra/github-readme-stats)
+[![4U](https://github-readme-stats.vercel.app/api/pin/?username=lapcoder&repo=4u-programming-language)](https://github.com/lapcoder/4U-proramming-language/)
 
 ## My Websites :
 
@@ -27,7 +27,7 @@ Here, I only did the command in C.
 
 ## Most loved languages (more stats) 📊
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagi-404&langs_count=100&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagi-404&langs_count=6&layout=compact)
 
 ## Tools 🔨
 <a href="https://fr.wikipedia.org/wiki/C%2B%2B"><img src="https://github.com/Yagi-404/Yagi-404/blob/main/c-1.svg" alt="C logo" width="40" height="40"/></a>
