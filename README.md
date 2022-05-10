@@ -27,6 +27,8 @@ Here, I only did the command in C.
 
 ## Most loved languages (more stats) 📊
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagi-404&langs_count=6)
+
 ## Tools 🔨
 <a href="https://fr.wikipedia.org/wiki/C%2B%2B"><img src="https://github.com/Yagi-404/Yagi-404/blob/main/c-1.svg" alt="C logo" width="40" height="40"/></a>
 <a href="https://fr.wikipedia.org/wiki/C_(langage)"><img src="https://github.com/Yagi-404/Yagi-404/blob/main/c.svg" alt="C logo" width="40" height="40"/></a>
