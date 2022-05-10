@@ -12,9 +12,9 @@
 [![Calculatrix](https://github-readme-stats.vercel.app/api/pin/?username=yagi-404&repo=calculatrix)](https://github.com/yagi-404/calculatrix/)
 
 
-[![PowerMusic](https://github-readme-stats.vercel.app/api/pin/?username=yagi-404&repo=powermusic)](https://github.com/yagi-404/powermusic/)
+[![BrainFucked](https://github-readme-stats.vercel.app/api/pin/?username=yagi-404&repo=brainfucked)](https://github.com/yagi-404/BrainFucked/)
 
-Here, I only did the command in C.
+Here, I only did the command in C and the base of the website, that have been remade by my friend.
 
 [![4U](https://github-readme-stats.vercel.app/api/pin/?username=lapcoder&repo=4u-programming-language)](https://github.com/lapcoder/4U-proramming-language/)
 
@@ -28,6 +28,11 @@ Here, I only did the command in C.
 ## Most loved languages (more stats) 📊
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagi-404&langs_count=6)
+
+## Future Projects 🔮
+
+1. Learn a new last language ?
+2. Create a bot Discord ?
 
 ## Tools 🔨
 <a href="https://fr.wikipedia.org/wiki/C%2B%2B"><img src="https://github.com/Yagi-404/Yagi-404/blob/main/c-1.svg" alt="C logo" width="40" height="40"/></a>
